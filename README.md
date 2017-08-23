@@ -1,6 +1,6 @@
 # How to Upload File on Ionic 3 using Native File Transfer Plugin
 
-This source code is part of [How to Upload File on Ionic 3 using Native File Transfer Plugin Tutorial]()
+This source code is part of [How to Upload File on Ionic 3 using Native File Transfer Plugin Tutorial](https://www.djamware.com/post/599da16580aca768e4d2b130/how-to-upload-file-on-ionic-3-using-native-file-transfer-plugin)
 
 ### With the Ionic CLI:
 
